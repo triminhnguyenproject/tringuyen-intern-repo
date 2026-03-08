@@ -34,9 +34,10 @@ I would use an external monitor and external keyboard to make my workspace more 
 I would have occansional short break between my working session, and follow the 20-20-20 rule to protect my eye.
 
 **How can you remind yourself to maintain good posture and take breaks throughout the day?**
-A reminder app on the phone could remind me of checking my posture and take a break every now and then.
+A reminder app on the phone could remind me of checking my posture and take a break every now and then. I simply use my phone timer app; I set up a 20 minutes timer and start to work. When it end, I take my short break for my eye, and do a bit of stretching on the chair. Then I just restart the timer and the cycle goes on.
 
 ## Task
 
 **One workspace change or habit adjustment you made**
 Use an external keyboard and mouse to better position my hand, reduce risk of wrist pain.
+![External Keyboard Set Up](Issue-9-Ergonomics-Screenshot.jpg)
