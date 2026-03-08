@@ -102,3 +102,6 @@ Week 15 (From 25/05/2026)
 - Friday: 10am \- 3pm (Remotely)
 
 Total Hours: 10  
+
+**Focus Bear Log hours Screenshot**
+![Focus Bear Log Hours](Issue-1-Loghours-Screenshot.png)
