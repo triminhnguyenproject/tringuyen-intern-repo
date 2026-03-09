@@ -21,5 +21,6 @@ The app have an onboarding session to introduce to new user about the app and ho
 
 ## Improvement could be made
 
+- The onboarding process could include show a bit few more core features of the app, so that the user do not have to look for them on their own.
 - User should have the option to revisit the onboarding process again, as the user could only go through the quick tutorial once, if later they want to quickly go through the tutorial again, there are curently no option for that beside watching video. So a new "Onboarding" button could be added.
 - A UI improvement could be made in the account tab of Setting. When try to copy the ID, there is a button used for this, but there were no text or image to indicate this. A label of "Copy ID" or a symbol could be place near or on the button so that it easier to spot the button, instead of a blank square.
